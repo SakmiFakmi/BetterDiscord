@@ -52,22 +52,22 @@ body::before {
     /* Enable or disable the flicker overlay effect. To disable remove the 
     comment decorators. To re-enable, add comment decorators. */
     
-    /* animation: initial; */
+     animation: initial; 
 }
 
 body::after {
     /* Enable or disable the scan line overlay effect. To disable remove the 
     comment decorators. To re-enable, add comment decorators. */
 
-   /* animation: initial; */
+    animation: initial; 
 }
 
 :root {
     /* Remove the comment decorators below to disable the text shadow animation effect. */
-    /* --text-shadow-animation: none; */
+     --text-shadow-animation: none; 
 
     /* Remove the comment decorators below to disable the text shadow effect. */
-    /* --text-shadow-shadow: none; */
+     --text-shadow-shadow: none; 
 }
 
 /*-----------------------------------------------------------------------------------------------*/
